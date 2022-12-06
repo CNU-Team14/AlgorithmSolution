@@ -1,6 +1,6 @@
 # AlgorithmSolution
 # 2021-Algorithm-Study
-
+test
 > 코딩 테스트 준비를 위한 스터디입니다. 
 
 - 기간: 2021년 3월~
