@@ -18,3 +18,5 @@
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/10808" target="_blank">10808</a> | <a href="https://www.acmicpc.net/problem/10808" target="_blank">알파펫 개수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="./../_Solution/Sort/10808">바로가기</a> |
+| 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1475" target="_blank">1475</a> | <a href="https://www.acmicpc.net/problem/1475" target="_blank">방 번호</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <a href="./../_Solution/Sort/1475">바로가기</a> |
+| 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/1919" target="_blank">1919</a> | <a href="https://www.acmicpc.net/problem/1919" target="_blank">애너그램 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="./../_Solution/Sort/1919">바로가기</a> |
