@@ -12,6 +12,6 @@
 
 |          순번          |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 | <a href="https://www.acmicpc.net/problem/1920" target="_blank">1920</a> | <a href="https://www.acmicpc.net/problem/10808" target="_blank">수 찾기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |  |
-| 01 | <a href="https://www.acmicpc.net/problem/10815" target="_blank">10815</a> | <a href="https://www.acmicpc.net/problem/10815" target="_blank">숫자 카드</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |  |
-| 02 | <a href="https://www.acmicpc.net/problem/2473" target="_blank">2473</a> | <a href="https://www.acmicpc.net/problem/2473" target="_blank">세 용액</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |  |
+| 00 | <a href="https://www.acmicpc.net/problem/1753" target="_blank">1753</a> | <a href="https://www.acmicpc.net/problem/1753" target="_blank">최단 경로</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="./../_Solution/ShortestPath/1753">바로가기</a> |
+| 01 | <a href="https://www.acmicpc.net/problem/1238" target="_blank">1238</a> | <a href="https://www.acmicpc.net/problem/1238" target="_blank">숫자 카드</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |  |
+| 02 | <a href="https://www.acmicpc.net/problem/1261" target="_blank">1261</a> | <a href="https://www.acmicpc.net/problem/1261" target="_blank">알고스팟</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |  |
