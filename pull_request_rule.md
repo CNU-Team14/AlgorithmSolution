@@ -32,8 +32,6 @@ Pull Request에 대한 설명은 [여기](https://wayhome25.github.io/git/2017/0
 
 #### Pull Request
 
-- [Programmers-폴더명] 이름
-
 - [Baekjoon-폴더명] 이름
 
 ## Rule
