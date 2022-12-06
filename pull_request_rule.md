@@ -32,7 +32,12 @@ Pull Request에 대한 설명은 [여기](https://wayhome25.github.io/git/2017/0
 
 #### Pull Request
 
-- [Baekjoon-폴더명] 이름
+- [ADD] 문제번호 언어 solution
+    <br>
+    ex. [ADD] 1111 Java solution
+- [ADD] 문제번호 tc
+    <br>
+    ex. [ADD] 1111 tc
 
 ## Rule
 
