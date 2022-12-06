@@ -17,4 +17,4 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/7271)
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/2798" target="_blank">2798</a> | <a href="https://www.acmicpc.net/problem/2798" target="_blank">블랙잭</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="./../solution/brute_force/2798">바로가기</a> |
+| 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/10808" target="_blank">10808</a> | <a href="https://www.acmicpc.net/problem/10808" target="_blank">알파펫 개수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="./../_Solution/Sort/10808">바로가기</a> |
