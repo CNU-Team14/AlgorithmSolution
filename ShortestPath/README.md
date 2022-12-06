@@ -14,4 +14,4 @@
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | <a href="https://www.acmicpc.net/problem/1920" target="_blank">1920</a> | <a href="https://www.acmicpc.net/problem/10808" target="_blank">수 찾기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |  |
 | 01 | <a href="https://www.acmicpc.net/problem/10815" target="_blank">10815</a> | <a href="https://www.acmicpc.net/problem/10815" target="_blank">숫자 카드</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |  |
-| 02 | <a href="https://www.acmicpc.net/problem/2473" target="_blank">2473</a> | <a href="https://www.acmicpc.net/problem/2473" target="_blank">세 용액</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |  |
+| 02 | <a href="https://www.acmicpc.net/problem/2473" target="_blank">2473</a> | <a href="https://www.acmicpc.net/problem/2473" target="_blank">세 용액</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |  gi|
