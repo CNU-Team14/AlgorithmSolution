@@ -7,7 +7,7 @@
    알고리즘을 좋아하는 충남대학교 학부 3학년 모임  
    20학번 류재민, 20학번 조현지, 20학번 김해경
 
-#### PR 규칙 (링크: )
+#### PR 규칙 (링크: [PR rule](https://github.com/CNU-Team14/AlgorithmSolution/blob/main/pull_request_rule.md))
    링크의 PR 규칙을 참고하여 주세요.
    
 #### 유형별 문제풀이 진행도
